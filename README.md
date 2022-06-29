@@ -23,8 +23,8 @@
     This project is to create a a readme generator so that user can have their fixed professional readme file for their projects.
 - Technology used in this project are: Javascript, Object Oriented Programing logic applied.
 
-
-
+# How to start
+run node index.js under Develop folder. 
 # Mock Up
    <p align="center"> 
         <img src="./Develop/Mockup.gif">
