@@ -12,7 +12,33 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `
+  # Project Title
+${data.title}
+# Description
+${data.Description}
+# Table of Contents 
+* [](#-Installation)
+* [Usage](#-Usage)
+* [License](#-Installation)
+* [Contributing](#-Contributing)
+* [Tests](#-Tests)
+* [Questions](#-Contact-Information)
+    
+# Installation
+${data.installation}
+# Usage
+${data.usage}
+# License 
+${data.license}
+* As this license list was not comprehensive, if you need another license, use the contact information below to ask for license to be added. 
+# Contributing 
+${data.contributing}
+# Tests
+${data.tests}
+# Contact Information 
+* GitHub Username: ${data.userName}
+* Contact Email: ${data.UserEmail}
 
 `;
 }
