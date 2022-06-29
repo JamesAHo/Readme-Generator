@@ -1,9 +1,8 @@
 
   # Project Title
-blah
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+Readme generator
 # Description
-blah
+...
 # Table of Contents 
 * [](#-Installation)
 * [Usage](#-Usage)
@@ -13,17 +12,17 @@ blah
 * [Questions](#-Contact-Information)
     
 # Installation
-blah
+...
 # Usage
 undefined
 # License 
-GNU GPLv3
-* As this license list was not comprehensive, if you need another license, use the contact information below to ask for license to be added. 
+GNU LGPLv3
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 # Contributing 
-blah
+...
 # Tests
-blah
+...
 # Contact Information 
-* GitHub Username: james
-* Contact Email: james.anh184@gfmail.com
+* GitHub: ...
+* Contact Email: blank@gmail.com
 

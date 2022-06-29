@@ -31,13 +31,13 @@ ${data.installation}
 ${data.usage}
 # License 
 ${data.license}
-* As this license list was not comprehensive, if you need another license, use the contact information below to ask for license to be added. 
+${data.getLicense}
 # Contributing 
 ${data.contributing}
 # Tests
 ${data.tests}
 # Contact Information 
-* GitHub Username: ${data.userName}
+* GitHub: ${data.userName}
 * Contact Email: ${data.UserEmail}
 
 `;
