@@ -18,17 +18,16 @@ ${data.title}
 # Description
 ${data.Description}
 # Table of Contents 
-* [](#-Installation)
+* [Installation](#-Installation)
 * [Usage](#-Usage)
 * [License](#-Installation)
 * [Contributing](#-Contributing)
 * [Tests](#-Tests)
-* [Questions](#-Contact-Information)
-    
+* [Questions](#-Contact-Information) 
 # Installation
 ${data.installation}
 # Usage
-${data.usage}
+${data.Usage}
 # License 
 ${data.license}
 ${data.getLicense}
